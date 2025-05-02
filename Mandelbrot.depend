@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1746164344 source:c:\users\parrot\desktop\project-triangle\mandelbrot\main.cpp
+	<SFML/Graphics.hpp>
+	"ComplexPlane.h"
+
+1746164156 c:\users\parrot\desktop\project-triangle\mandelbrot\complexplane.h
+	<SFML/Graphics.hpp>
+	<complex>
+	<vector>
+	<sstream>
+
+1746164272 source:c:\users\parrot\desktop\project-triangle\mandelbrot\complexplane.cpp
+	"ComplexPlane.h"
+	<cmath>
+	<thread>
+
